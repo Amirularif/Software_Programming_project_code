@@ -1,0 +1,14 @@
+===========================================
+     ONLINE PARCEL DELIVERY PROGRAMME    
+    *we send parcel to your loved ones* 
+===========================================
+-------------------------------------------
+           Electronic receipt                  
+-------------------------------------------
+Time/Date :Tue Dec 10 16:19:49 2019
+Name :nick 
+Address :seoul 
+Weight : 12kg 
+Price :10000.00$
+Parcel Type Chose : F
+------------------------------------------
