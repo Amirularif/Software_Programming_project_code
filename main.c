@@ -3,7 +3,7 @@
 #include<time.h>
 #include<unistd.h>
 #define SIZE 2
-#define FLOC "//home//kizna//Documents//projects//receipt.txt" //ubah
+#define FLOC "//Documents//projects//receipt.txt" //change
 
 int member_id[SIZE] = {2019, 2018};
 int ans4, ans2, days;
@@ -20,7 +20,7 @@ pid_t x;
 		exit(-1);
 	}
 	else if (x==0){
-		system("mpg123 -q /home/kizna/Downloads/EDsong.mp3"); //ubah
+		system("mpg123 -q /home/Downloads/EDsong.mp3"); //change to your directory
 	exit(0);
 	}
 	else{ printf("from parent:mpg123 is pid %d\nPlease enjoy the song while we redirect you to the parcel sending service\n",x);
